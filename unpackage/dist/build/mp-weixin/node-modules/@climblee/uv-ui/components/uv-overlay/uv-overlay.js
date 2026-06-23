@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["node-modules/@climblee/uv-ui/components/uv-overlay/uv-overlay"],{"0dd8":function(t,n,e){"use strict";e.d(n,"b",(function(){return i})),e.d(n,"c",(function(){return o})),e.d(n,"a",(function(){return u}));var u={uvTransition:function(){return Promise.all([e.e("common/vendor"),e.e("node-modules/@climblee/uv-ui/components/uv-transition/uv-transition")]).then(e.bind(null,"473e"))}},i=function(){var t=this.$createElement;this._self._c},o=[]},"361d":function(t,n,e){"use strict";e.r(n);var u=e("0dd8"),i=e("9914");for(var o in i)["default"].indexOf(o)<0&&function(t){e.d(n,t,(function(){return i[t]}))}(o);e("9c1b");var c=e("828b"),r=Object(c["a"])(i["default"],u["b"],u["c"],!1,null,"12a6473f",null,!1,u["a"],void 0);n["default"]=r.exports},"8b70":function(t,n,e){"use strict";var u=e("47a9");Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var i=u(e("e7db")),o=u(e("0e37")),c=u(e("cd86")),r={name:"uv-overlay",emits:["click"],mixins:[i.default,o.default,c.default],watch:{show:function(t){}},computed:{overlayStyle:function(){var t={position:"fixed",top:0,left:0,right:0,zIndex:this.zIndex,bottom:0,"background-color":"rgba(0, 0, 0, ".concat(this.opacity,")")};return this.$uv.deepMerge(t,this.$uv.addStyle(this.customStyle))}},methods:{clickHandler:function(){this.$emit("click")},clear:function(){}}};n.default=r},9914:function(t,n,e){"use strict";e.r(n);var u=e("8b70"),i=e.n(u);for(var o in u)["default"].indexOf(o)<0&&function(t){e.d(n,t,(function(){return u[t]}))}(o);n["default"]=i.a},"9c1b":function(t,n,e){"use strict";var u=e("cf58"),i=e.n(u);i.a},cf58:function(t,n,e){}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'node-modules/@climblee/uv-ui/components/uv-overlay/uv-overlay-create-component',
+    {
+        'node-modules/@climblee/uv-ui/components/uv-overlay/uv-overlay-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("361d"))
+        })
+    },
+    [['node-modules/@climblee/uv-ui/components/uv-overlay/uv-overlay-create-component']]
+]);

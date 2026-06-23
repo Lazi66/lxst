@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "l-topbar": "/components/l-topbar/topbar",
+    "uv-icon": "/node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "qiun-data-charts": "/uni_modules/qiun-data-charts/components/qiun-data-charts/qiun-data-charts",
+    "main-menu": "/pages/index_/menu",
+    "page-footer": "/components/pageFooter/index"
+  }
+}

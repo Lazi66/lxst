@@ -1,0 +1,89 @@
+
+.page-container.data-v-4ea74198 {
+    background-color: #f8f9fa;
+    min-height: 100vh;
+}
+.bg-white.data-v-4ea74198 { background-color: #ffffff;
+}
+.bg-green-light.data-v-4ea74198 { background-color: #E8F8F0;
+}
+.p-30.data-v-4ea74198 { padding: 30rpx;
+}
+.p-x-20.data-v-4ea74198 { padding-left: 20rpx; padding-right: 20rpx;
+}
+.p-x-30.data-v-4ea74198 { padding-left: 30rpx; padding-right: 30rpx;
+}
+.p-y-5.data-v-4ea74198 { padding-top: 5rpx; padding-bottom: 5rpx;
+}
+.p-y-10.data-v-4ea74198 { padding-top: 10rpx; padding-bottom: 10rpx;
+}
+.p-y-40.data-v-4ea74198 { padding-top: 40rpx; padding-bottom: 40rpx;
+}
+.p-b-20.data-v-4ea74198 { padding-bottom: 20rpx;
+}
+.m-l-20.data-v-4ea74198 { margin-left: 20rpx;
+}
+.m-b-10.data-v-4ea74198 { margin-bottom: 10rpx;
+}
+.m-b-20.data-v-4ea74198 { margin-bottom: 20rpx;
+}
+.m-b-30.data-v-4ea74198 { margin-bottom: 30rpx;
+}
+.m-b-40.data-v-4ea74198 { margin-bottom: 40rpx;
+}
+.br-12.data-v-4ea74198 { border-radius: 12rpx;
+}
+.br-24.data-v-4ea74198 { border-radius: 24rpx;
+}
+.br-30.data-v-4ea74198 { border-radius: 30rpx;
+}
+.x.data-v-4ea74198 { display: flex; flex-direction: row;
+}
+.y.data-v-4ea74198 { display: flex; flex-direction: column;
+}
+.c.data-v-4ea74198 { align-items: center; justify-content: center;
+}
+.c-y.data-v-4ea74198 { align-items: center;
+}
+.jc-sb.data-v-4ea74198 { justify-content: space-between;
+}
+.flex-1.data-v-4ea74198 { flex: 1;
+}
+.lh-2.data-v-4ea74198 { line-height: 2;
+}
+.f24.data-v-4ea74198 { font-size: 24rpx;
+}
+.f26.data-v-4ea74198 { font-size: 26rpx;
+}
+.f28.data-v-4ea74198 { font-size: 28rpx;
+}
+.f32.data-v-4ea74198 { font-size: 32rpx;
+}
+.fc-333.data-v-4ea74198 { color: #333333;
+}
+.fc-666.data-v-4ea74198 { color: #666666;
+}
+.fc-999.data-v-4ea74198 { color: #999999;
+}
+.fc-green.data-v-4ea74198 { color: #07C160;
+}
+.fw-bold.data-v-4ea74198 { font-weight: bold;
+}
+.bottom-border.data-v-4ea74198 {
+    border-bottom: 2rpx solid #F0F0F0;
+}
+.product-img.data-v-4ea74198 {
+    width: 140rpx;
+    height: 140rpx;
+    background-color: #f0f0f0;
+}
+.product-info.data-v-4ea74198 {
+    height: 140rpx;
+}
+.line2.data-v-4ea74198 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+

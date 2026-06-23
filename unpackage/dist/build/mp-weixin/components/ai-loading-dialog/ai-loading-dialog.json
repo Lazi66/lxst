@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uv-popup": "/node-modules/@climblee/uv-ui/components/uv-popup/uv-popup"
+  },
+  "component": true
+}

@@ -1,0 +1,1 @@
+<view class="fu-tabbar data-v-592c9581" style="{{'height:'+(fuHeight)+';'+('min-height:'+(fuHeight)+';')}}"><view class="y tabbar data-v-592c9581" style="{{(getTabbarStyle)}}" id="tabbarId"><slot></slot><view class="safe-bottom data-v-592c9581"></view></view></view>

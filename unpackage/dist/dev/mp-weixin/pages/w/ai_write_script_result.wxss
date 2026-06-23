@@ -1,0 +1,110 @@
+
+.page-container.data-v-712833aa {
+    background: linear-gradient(180deg, #f0fdf4 0%, #f8f9fa 15%, #f8f9fa 100%);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.x.data-v-712833aa { display: flex; flex-direction: row;
+}
+.y.data-v-712833aa { display: flex; flex-direction: column;
+}
+.c.data-v-712833aa { display: flex; align-items: center; justify-content: center;
+}
+.c-y.data-v-712833aa { align-items: center;
+}
+.jc-sb.data-v-712833aa { justify-content: space-between;
+}
+.flex-1.data-v-712833aa { flex: 1;
+}
+.m-l-10.data-v-712833aa { margin-left: 10rpx;
+}
+.m-r-20.data-v-712833aa { margin-right: 20rpx;
+}
+.m-r-60.data-v-712833aa { margin-right: 60rpx;
+}
+.m-t-20.data-v-712833aa { margin-top: 20rpx;
+}
+.m-t-30.data-v-712833aa { margin-top: 30rpx;
+}
+.nav-right.data-v-712833aa {
+    padding-right: 30rpx;
+}
+.regenerate-btn.data-v-712833aa {
+    padding: 10rpx 0;
+}
+.regenerate-text.data-v-712833aa {
+    font-size: 28rpx;
+    color: #333;
+}
+.content-wrap.data-v-712833aa {
+    padding: 30rpx;
+    padding-bottom: calc(240rpx + env(safe-area-inset-bottom));
+}
+.result-card.data-v-712833aa {
+    background: #fdfdfd;
+    border-radius: 20rpx;
+    padding: 40rpx;
+    box-shadow: 0 4rpx 16rpx rgba(0,0,0,0.02);
+    min-height: 800rpx;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.result-title.data-v-712833aa {
+    font-size: 34rpx;
+    font-weight: bold;
+    color: #333;
+    line-height: 1.5;
+}
+.result-scroll.data-v-712833aa {
+    width: 100%;
+}
+.result-content.data-v-712833aa {
+    font-size: 30rpx;
+    color: #666;
+    line-height: 1.8;
+}
+.card-bottom.data-v-712833aa {
+    margin-top: auto;
+    padding-top: 40rpx;
+}
+.copy-btn.data-v-712833aa {
+    border: 2rpx solid #e8e8e8;
+    padding: 8rpx 20rpx;
+    border-radius: 10rpx;
+}
+.copy-text.data-v-712833aa {
+    font-size: 24rpx;
+    color: #666;
+}
+/* 底部栏 */
+.bottom-bar.data-v-712833aa {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 24rpx 40rpx;
+    padding-bottom: calc(24rpx + env(safe-area-inset-bottom));
+    background: transparent;
+    z-index: 100;
+}
+.use-btn.data-v-712833aa {
+    width: 100%;
+    height: 96rpx;
+    background: #1677FF;
+    border-radius: 20rpx;
+    color: #fff;
+    font-size: 32rpx;
+    font-weight: bold;
+    box-shadow: 0 8rpx 20rpx rgba(22, 119, 255, 0.2);
+}
+.use-btn.data-v-712833aa:active {
+    opacity: 0.9;
+}
+.bottom-tips.data-v-712833aa {
+    font-size: 24rpx;
+    color: #ccc;
+}
+
