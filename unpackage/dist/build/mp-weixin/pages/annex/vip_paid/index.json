@@ -1,9 +1,0 @@
-{
-  "navigationBarTitleText": "SVIP会员",
-  "navigationBarBackgroundColor": "#353841",
-  "navigationBarTextStyle": "white",
-  "usingComponents": {
-    "home": "/components/home/index",
-    "payment": "/components/payment/index"
-  }
-}

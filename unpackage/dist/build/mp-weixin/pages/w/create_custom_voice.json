@@ -1,8 +1,0 @@
-{
-  "navigationStyle": "custom",
-  "usingComponents": {
-    "uv-icon": "/node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
-    "uv-popup": "/node-modules/@climblee/uv-ui/components/uv-popup/uv-popup",
-    "privacy-pop": "/components/privacy-pop/privacy-pop"
-  }
-}
